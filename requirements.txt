@@ -3,3 +3,9 @@ telethon
 telethon-tgcrypto
 cryptg
 ethon==1.0.7
+crypto
+hackd
+gamef
+fuvk u
+sksmsmd
+hsjejd
